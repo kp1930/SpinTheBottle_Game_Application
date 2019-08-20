@@ -1,4 +1,4 @@
-package theblackdiamonds.com;
+package com.theblackdiamonds;
 
 import org.junit.Test;
 
